@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project is a 2-in-1 embedded measurement instrument developed using an STM32 development board. The system combines digital multimeter functions and dual-channel oscilloscope functions into one educational-purpose device.
+This project is a 2-in-1 embedded measurement instrument developed using an STM32 development board. The system combines digital multimeter functions and dual-channel oscilloscope functions into one educational-purpose device. The tools using TrueSTUDIO. 
 
 The oscilloscope mode captures analog input signals through ADC channels and displays real-time waveforms on a TFT LCD. The digital multimeter mode supports basic measurement functions such as voltage, current, resistance, capacitance, temperature, and connectivity testing.
 
