@@ -57,8 +57,9 @@ The system consists of analog input circuits, STM32 ADC modules, signal processi
 ## Project Structure
 
 ```text
-src/        Source code and the addition Libraries need (main.c is the main program)
+src/        Source code and the addition Libraries need 
 docs/       System architecture, hardware setup, and testing documentation
+main.c      The main program
 ```
 
 ## Status
