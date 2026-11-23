@@ -46,7 +46,7 @@ The oscilloscope mode captures analog input signals through ADC channels and dis
 
 The system consists of analog input circuits, STM32 ADC modules, signal processing logic, TFT LCD display control, and user input control. The user can switch between oscilloscope mode and digital multimeter mode during operation.
 
-## My Contributions
+## My Contributions ##
 
 * Developed embedded C firmware for ADC signal acquisition and measurement processing.
 * Implemented waveform plotting on TFT LCD with voltage scale, time base, and grid display.
